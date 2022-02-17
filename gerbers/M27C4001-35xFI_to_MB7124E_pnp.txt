@@ -1,0 +1,24 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=M27C4001-35xFI_to_MB7124E
+*Date=21:55:47
+*CreatedBy=Fritzing 0.9.6b..0.9.6
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;13.3536;-10.1622;0;Bottom;TXT1
+2;;;15.2468;-8.54797;0;Bottom;TXT1
+3;;;10.3431;-33.3447;0;Bottom;IMG1
+4;;THT;17.7754;-33.264;0;Bottom;J2
+5;;;16.6401;-6.98062;0;Bottom;TXT2
+6;;;5.76454;-8.09155;-90;Bottom;IMG2
+7;;THT;3.07536;-33.264;0;Bottom;J1
+8;;;10.3572;-2.56039;0;Bottom;IMG3
+9;;DIP (Dual Inline) [THT];10.4854;-38.344;0;Bottom;IC1
